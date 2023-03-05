@@ -26,4 +26,4 @@ ___
 
 * The below screen capture shows the resulting web request printed in the terminal when the correct bit is flipped to enable `auth_name=1`
 
-![Final Result](./assets/moreCookies.jpg)
+![Final Result](../assets/moreCookies.jpg)
